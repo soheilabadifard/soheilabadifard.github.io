@@ -85,7 +85,7 @@ author:
   bio              : "AI/ML Researcher"
   location         : "Ankara, TR"
   employer         : "Bilkent University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=zb9pBoAAAAAJ"
   email            : "soheil.abadifard@bilkent.edu.tr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/soheilabadifard"
+  github           : "soheilabadifard"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/soheil-abadifard/"
+  linkedin         : "soheil-abadifard/"
   orcid            : "https://orcid.org/0000-0002-2980-4251"
   pinterest        :
   soundcloud       :
