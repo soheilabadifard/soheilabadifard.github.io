@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Soheil Abadifard"
-description              : &description "personal description"
+name                     : &name "Soheil"
+#description              : &description "personal description"
 url                      : https://soheilabadifard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "soheilabadifard/soheilabadifard.github.io"
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
