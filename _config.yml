@@ -26,8 +26,8 @@ author:
   name             : "Soheil Abadifard"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Manhattan, KS, USA"
+  employer         : "Kansas State University"
   uri              : # URL
   email            : "abadifard@ksu.edu"
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "soheil-abadifard"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
