@@ -1,7 +1,7 @@
 ---
 title: "Dyned: Dynamic ensemble diversification in data stream classification"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/DynED
 date: 2023-10-22
 venue: 'CIKM 2023'
