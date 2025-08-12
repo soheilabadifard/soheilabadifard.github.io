@@ -7,58 +7,68 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% assign cv = site.data.cv %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+{% for edu in cv.education %}
+* {{ edu.studyType }} in {{ edu.area }}, {{ edu.institution }}, {{ edu.startDate | date: "%Y" }} - {{ edu.endDate | date: "%Y" }}
+  {% if edu.gpa %}  
+  GPA: {{ edu.gpa }}  
+  {% endif %}
+  {% if edu.advisor %}  
+  Advisor: {{ edu.advisor }}  
+  {% endif %}
+  {% if edu.thesis %}  
+  Thesis: {{ edu.thesis }}  
+  {% endif %}
+  {% if edu.degreeProject %}  
+  Degree Project: {{ edu.degreeProject }}  
+  {% endif %}
+{% endfor %}
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+{% for job in cv.work %}
+* {{ job.startDate | date: "%Y-%m" }} - {{ job.endDate }}: {{ job.position }}
+  * {{ job.company }}, {{ job.location }}
+  * {{ job.summary }}
+{% endfor %}
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+{% for award in cv.awards %}
+* {{ award.title }}, {{ award.awarder }}, {{ award.date | date: "%Y" }}
+  * {{ award.summary }}
+{% endfor %}
+
+Editorial Activities
+======
+{% for ed in cv.editorial %}
+* {{ ed.role }}, {{ ed.journal }}, {{ ed.date }}
+{% endfor %}
+
+Teaching
+======
+{% for teach in cv.teaching %}
+* {{ teach.course }}, {{ teach.institution }}, {{ teach.date | date: "%Y" }}
+  * {{ teach.role }}
+  * {{ teach.description }}
+{% endfor %}
+
+Projects
+======
+{% for proj in cv.portfolio %}
+* {{ proj.name }} ({{ proj.date | date: "%Y-%m" }})
+  * {{ proj.description }}
+{% endfor %}
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+{% for pub in cv.publications %}
+* {{ pub.name }}
+  * {{ pub.publisher }}, {{ pub.releaseDate | date: "%Y-%m" }}
+  * Authors: {{ pub.authors | join: ", " }}
+  * [Link]({{ pub.website }})
+  * {{ pub.summary }}
+{% endfor %}
