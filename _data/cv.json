@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Soheil Abadifard",
+    "email": "abadifard@ksu.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "",
+    "summary": "Ph.D. student in Computer Science at Kansas State University. Research interests: AI, machine learning, bioinformatics, information retrieval.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Manhattan",
       "countryCode": "US",
-      "region": ""
+      "region": "KS"
     },
     "profiles": [
       {
@@ -30,34 +30,59 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Kansas State University",
+      "position": "Graduate Research Assistant",
+      "location": "Manhattan, KS, U.S.A",
+      "startDate": "2025-01",
+      "endDate": "Present",
+      "summary": "Building concordant systems for AI applications: ontologies, bioinformatics, biomedical, food informatics, agriculture informatics."
+    },
+    {
+      "company": "Bilkent University",
+      "position": "Research & Teaching Assistant",
+      "location": "Ankara, Turkey",
+      "startDate": "2021-09",
+      "endDate": "2024-09",
+      "summary": "Developed machine learning algorithms for IR, data stream classification, learning to rank, NLP. Assisted with lab assignments and course materials."
+    },
+    {
+      "company": "iCTN",
+      "position": "Network Administrator",
+      "location": "Tabriz, Iran",
+      "startDate": "2020-04",
+      "endDate": "2021-07",
+      "summary": "Enhanced and maintained network infrastructure for companies and organizations. Managed servers, routers, switches, VMware, storage, firewalls."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Kansas State University",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "2025-01",
+      "endDate": "Present",
+      "gpa": "4.0/4.0"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "Bilkent University",
+      "area": "Computer Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2021-09",
+      "endDate": "2024-09",
+      "gpa": "3.56/4.0",
+      "advisor": "Prof. FAZLI CAN",
+      "thesis": "Dynamic Ensemble Diversification and Hash-Based Undersampling for the Classification of Multi-Class Imbalanced Data Streams"
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "University of Tabriz",
+      "area": "Information Technology Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2013-09",
+      "endDate": "2017-07",
+      "gpa": "16.09/20",
+      "degreeProject": "Flight Reservation System"
     }
   ],
   "skills": [],
@@ -66,87 +91,94 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Dyned: Dynamic ensemble diversification in data stream classification",
+      "publisher": "CIKM’23",
+      "releaseDate": "2023-10-01",
+      "website": "https://doi.org/10.1145/3583780.3615266",
+      "authors": ["S. Abadifard", "S. Bakhshi", "S. Gheibuni", "F. Can"],
+      "summary": "Dynamic ensemble diversification in data stream classification."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "LSH-DynED: A Dynamic Ensemble Framework with LSH-Based Undersampling for Evolving Multi-Class Imbalanced Classification",
+      "publisher": "arXiv",
+      "releaseDate": "2025-06-01",
+      "website": "https://arxiv.org/abs/2506.20041",
+      "authors": ["S. Abadifard", "F. Can"],
+      "summary": "A dynamic ensemble framework with LSH-based undersampling for evolving multi-class imbalanced classification."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Computer Organization",
+      "institution": "Bilkent University",
+      "date": "2021-09-01",
+      "role": "Lab Assistant",
+      "description": "Assisted with lab assignments, projects, and course materials."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Python",
+      "institution": "Bilkent University",
+      "date": "2021-09-01",
+      "role": "Lab Assistant",
+      "description": "Assisted with lab assignments, projects, and course materials."
+    },
+    {
+      "course": "Algorithms and Programming II (Java)",
+      "institution": "Bilkent University",
+      "date": "2021-09-01",
+      "role": "Lab Assistant",
+      "description": "Assisted with lab assignments, projects, and course materials."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Graduate Fellowship",
+      "date": "2021-09-01",
+      "awarder": "Bilkent University",
+      "summary": "Awarded for academic excellence during M.Sc. studies."
+    },
+    {
+      "title": "Undergraduate Full Scholarship",
+      "date": "2013-09-01",
+      "awarder": "University of Tabriz",
+      "summary": "Awarded for academic excellence during B.Sc. studies."
+    }
+  ],
+  "editorial": [
+    {
+      "role": "Reviewer",
+      "journal": "Information Fusion",
+      "date": "2025-Present"
+    },
+    {
+      "role": "Reviewer",
+      "journal": "Knowledge-Based Systems",
+      "date": "2025-Present"
+    },
+    {
+      "role": "Reviewer",
+      "journal": "Expert Systems With Applications",
+      "date": "2025-Present"
+    },
+    {
+      "role": "Reviewer",
+      "journal": "Applied Ontology Journal",
+      "date": "2025-Present"
+    },
+    {
+      "role": "Reviewer",
+      "journal": "Computational Intelligence",
+      "date": "2024-Present"
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "Sentiment Analysis Plugin for Kotlin",
+      "category": "project",
+      "date": "2021-07-01",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Developed a plugin to perform sentiment analysis on Kotlin code comments. Tools Used: Kotlin, Natural Language Processing."
     }
   ]
 }

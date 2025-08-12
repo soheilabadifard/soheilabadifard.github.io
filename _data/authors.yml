@@ -16,3 +16,14 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+Soheil Abadifard:
+  name        : "Soheil Abadifard"
+  uri         : ""
+  email       : "abadifard@ksu.edu"
+  bio         : "Ph.D. student in Computer Science at Kansas State University. Research interests include AI, machine learning, bioinformatics, and information retrieval."
+  avatar      : "bio-photo.jpg"
+  twitter     : ""
+  linkedin    : ""
+  github      : ""
+  location    : "Manhattan, KS, U.S.A"
