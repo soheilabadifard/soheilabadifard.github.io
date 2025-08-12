@@ -1,8 +1,8 @@
 ---
-title: Teaching Assistant - Algorithms and Programming II (Java) "
+title: Teaching Assistant - programming Languages (Python)"
 collection: teaching
 type: "undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/teaching-3
 venue: "Bilkent University, Department of Computer Engineering"
 location: "Ankara, Turkey"
 ---

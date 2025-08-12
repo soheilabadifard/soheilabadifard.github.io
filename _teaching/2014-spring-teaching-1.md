@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant - Computer Organization"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Bilkent University, Department of Computer Engineering"
+location: "Ankara, Turkey"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I served as a teaching assistant for the undergraduate course "Computer Organization" at Bilkent University. My responsibilities included:
+- Assisting in the preparation and delivery of course materials.
+- Conducting weekly lab sessions to help students understand the practical aspects of computer organization.
+- Grading assignments and exams to evaluate student performance.
+- Providing support to students during office hours to clarify concepts and answer questions.
