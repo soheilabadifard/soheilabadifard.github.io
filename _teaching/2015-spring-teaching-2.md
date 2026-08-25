@@ -1,7 +1,7 @@
 ---
-title: Teaching Assistant - Algorithms and Programming II (Java) "
+title: "Teaching Assistant - Algorithms and Programming II (Java)"
 collection: teaching
-type: "undergraduate course"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Bilkent University, Department of Computer Engineering"
 date: 2021-09-01

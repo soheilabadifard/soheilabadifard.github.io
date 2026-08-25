@@ -1,7 +1,7 @@
 ---
-title: Teaching Assistant - programming Languages (Python)"
+title: "Teaching Assistant - Programming Languages (Python)"
 collection: teaching
-type: "undergraduate course"
+type: "Undergraduate course"
 permalink: /teaching/teaching-3
 venue: "Bilkent University, Department of Computer Engineering"
 date: 2021-09-01
