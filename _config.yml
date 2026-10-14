@@ -210,7 +210,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", ".nojekyll"] # .nojekyll tells GitHub Pages to serve the built site as is
+include: ["_pages"]
 exclude:
   - AGENTS.md
   - al-folio-upgrade-report.md
