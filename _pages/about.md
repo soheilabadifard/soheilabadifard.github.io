@@ -7,14 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 
-profile:
-  align: right
-  # image: prof_pic.jpg # put your photo in assets/img/ and uncomment this line
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Department of Computer Science</p>
-    <p>Kansas State University</p>
-    <p>Manhattan, KS, USA</p>
+# To show a photo: put it in assets/img/ and uncomment these lines.
+# profile:
+#   align: right
+#   image: prof_pic.jpg
+#   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
