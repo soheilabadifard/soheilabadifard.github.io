@@ -74,15 +74,6 @@
       "gpa": "3.56/4.0",
       "advisor": "Prof. FAZLI CAN",
       "thesis": "Dynamic Ensemble Diversification and Hash-Based Undersampling for the Classification of Multi-Class Imbalanced Data Streams"
-    },
-    {
-      "institution": "University of Tabriz",
-      "area": "Information Technology Engineering",
-      "studyType": "B.Sc.",
-      "startDate": "2013-09",
-      "endDate": "2017-07",
-      "gpa": "16.09/20",
-      "degreeProject": "Flight Reservation System"
     }
   ],
   "skills": [],
@@ -117,7 +108,7 @@
       "description": "Assisted with lab assignments, projects, and course materials."
     },
     {
-      "course": "Python",
+      "course": "Programming Languages (Python)",
       "institution": "Bilkent University",
       "date": "2021-09-01",
       "role": "Lab Assistant",
@@ -137,15 +128,14 @@
       "date": "2021-09-01",
       "awarder": "Bilkent University",
       "summary": "Awarded for academic excellence during M.Sc. studies."
-    },
-    {
-      "title": "Undergraduate Full Scholarship",
-      "date": "2013-09-01",
-      "awarder": "University of Tabriz",
-      "summary": "Awarded for academic excellence during B.Sc. studies."
     }
   ],
   "editorial": [
+    {
+      "role": "Reviewer",
+      "journal": "Electronic Commerce Research and Applications",
+      "date": "2026-Present"
+    },
     {
       "role": "Reviewer",
       "journal": "Information Fusion",
@@ -165,6 +155,31 @@
       "role": "Reviewer",
       "journal": "Applied Ontology Journal",
       "date": "2025-Present"
+    },
+    {
+      "role": "Reviewer",
+      "journal": "Engineering Applications of Artificial Intelligence",
+      "date": "2025-Present"
+    },
+    {
+      "role": "Reviewer",
+      "journal": "European Conference on Information Retrieval (ECIR)",
+      "date": "2026"
+    },
+    {
+      "role": "Reviewer",
+      "journal": "European Semantic Web Conference (ESWC)",
+      "date": "2026"
+    },
+    {
+      "role": "Reviewer",
+      "journal": "AAAI/ACM Conference on AI, Ethics, and Society (AIES)",
+      "date": "2025"
+    },
+    {
+      "role": "Reviewer",
+      "journal": "International Conference on Biological and Biomedical Ontology (ICBO)",
+      "date": "2025"
     },
     {
       "role": "Reviewer",

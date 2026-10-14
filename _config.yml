@@ -84,6 +84,10 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  preprints:
+    title: 'Preprints'
+  theses:
+    title: 'Theses'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -184,6 +188,7 @@ exclude:
   - package.json*
   - Rakefile
   - README
+  - TODO.md
   - tmp
   - vendor
 keep_files:
