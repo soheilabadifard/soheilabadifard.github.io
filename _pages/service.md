@@ -1,7 +1,10 @@
 ---
-title: "Service"
+layout: page
 permalink: /service/
-author_profile: true
+title: service
+description: Organizing, reviewing, and student leadership.
+nav: true
+nav_order: 4
 ---
 
 ## Organizing
