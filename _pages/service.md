@@ -9,7 +9,7 @@ nav_order: 4
 
 ## Organizing
 
-- **Poster Session Coordinator**, [2026 Heartland AI Symposium](https://www.k-state.edu/ai-symposium/support/present/), Kansas State University, Manhattan, KS, 2026
+- **Graduate Student Co-Chair**, Graduate and Undergraduate Student Research Poster Session, [2026 Heartland AI Symposium](https://www.k-state.edu/ai-symposium/support/present/), Kansas State University, Manhattan, KS, 2026
 - **Web and Publicity Chair**, 5th U.S. Semantic Technologies Symposium (US2TS 2025), Dayton, OH, 2025
 
 ## Reviewing

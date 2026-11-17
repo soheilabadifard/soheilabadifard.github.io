@@ -18,11 +18,11 @@ On [GLIIDE](/publications/#dalal2025gliide), a two-track generative framework fo
 
 **Bioinformatics Pipeline for Analyzing Space-Flown Mammary Gland**<br>
 Poster · 5th U.S. Semantic Technologies Symposium (US2TS 2025), Dayton, OH, USA · December 2025<br>
-On the [bioinformatics pipeline for analyzing space-flown mammary gland tissue](/publications/#abadifard2026mammary).
+On the [bioinformatics pipeline for analyzing space-flown mammary gland tissue](/publications/#abadifard2025mammary).
 
 **Bioinformatics Pipeline for Analyzing Space-Flown Mammary Tissue**<br>
 Poster · 41st Annual Meeting of the American Society for Gravitational and Space Research (ASGSR 2025), Phoenix, AZ, USA · December 2025<br>
-Graduate Student Poster Session, on the work described in the [space-flown mammary gland preprint](/publications/#abadifard2026mammary). The abstract is in the [meeting booklet](https://asgsr.org/wp-content/uploads/2026/02/2025-Annual-Meeting-Booklet.pdf).
+Graduate Student Poster Session, on the work described in the [space-flown mammary gland paper](/publications/#abadifard2025mammary). The abstract is in the [meeting booklet](https://asgsr.org/wp-content/uploads/2026/02/2025-Annual-Meeting-Booklet.pdf).
 
 **DynED: Dynamic Ensemble Diversification in Data Stream Classification**<br>
 Poster · 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023), Birmingham, UK · October 2023<br>
